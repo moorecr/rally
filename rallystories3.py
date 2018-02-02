@@ -16,7 +16,7 @@ from pyral import Rally, rallyWorkset, RallyRESTAPIError
 from slacker import Slacker
 
 
-slack = Slacker('xoxp-44257107201-44276984259-128037794102-2db84e9c35494063500fcadaebbe6d0f')
+slack = Slacker('enter slack token here')
 
 #################################################################################################
 
@@ -35,11 +35,11 @@ project="Team Systems Team for Systems and Teams"
 # API key for tandre 1/13/2017
 
 #slack channel
-channel = "#a-team"
+channel = "#slack channel here"
 
 
 #cmoore-hackathon-moes
-apikey="_2yrazrNvTmOYVUDC1GqvF9aKnpSsUsgrgrQaxN50Y"
+apikey="rally key"
 
 
 
