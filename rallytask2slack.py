@@ -11,7 +11,7 @@ from datetime import timedelta
 from pyral import Rally
 from slacker import Slacker
 
-slack = Slacker('xoxp-44257107201-44276984259-128037794102-2db84e9c35494063500fcadaebbe6d0f')
+slack = Slacker('enter slack token here')
 
 # Send a message to #integration-testing channel
 
@@ -29,10 +29,10 @@ project="Team Systems Team for Systems and Teams"
 
 #cmoore-hackathon-moes
 
-apikey="_2yrazrNvTmOYVUDC1GqvF9aKnpSsUsgrgrQaxN50Y"
+apikey="rally api key here"
 
 #which slack channel does this post to?
-channel = "#Chris Moore"
+channel = "#channel name here"
 
 #Assume this system runs (via cron) every 15 minutes.
 interval = 1000 * 60
