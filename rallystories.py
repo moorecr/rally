@@ -14,7 +14,7 @@ import sys, os
 from pyral import Rally, rallyWorkset, RallyRESTAPIError
 from slacker import Slacker
 
-slack = Slacker('xoxp-44257107201-44276984259-128037794102-2db84e9c35494063500fcadaebbe6d0f')
+slack = Slacker('slack token here')
 
 #################################################################################################
 
@@ -37,7 +37,7 @@ channel = "#a-team"
 
 
 #cmoore-hackathon-moes
-apikey="_2yrazrNvTmOYVUDC1GqvF9aKnpSsUsgrgrQaxN50Y"
+apikey="api key here"
 
 #################################################################################################
 
